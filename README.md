@@ -1,3 +1,3 @@
 # demo1
 <br>
-this my first reposetry
+this my first repository
